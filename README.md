@@ -32,19 +32,6 @@
 
 <img align="right" src="https://github.com/yamin335/yamin335/blob/main/developer.gif" alt="Coder GIF" width="500" style="margin=0px 0px 0px 20px;">
 
-<h2>:man_technologist: About me ✨</h2>
-
-- 🛠️ **Experience:** Over 5 years in software development
-- 👨‍💼 **Working** as a **Senior mobile application developer**
-- 🏆 **Experienced** in ***iOS*** and ***android*** application development
-- 🌿 Love to learn new things
-- 🍀 Meanwhile You can checkout my blogs on [Medium](https://medium.com/@mdyamin)
-- ⭐️ You can star my repos, if you find something helpful 😊
-- 🥰 Feel free to visit my [Portfolio](https://yamin335.github.io/)
-
-<br>
-<br>
-
 <h2>🛠️ Tech Stack 🎖️</h2>
 
 ![iOS](https://img.shields.io/badge/-iOS-606060?style=flat&logo=apple)
@@ -70,6 +57,23 @@
 
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-606060?style=flat&logo=androidstudio)
 ![Xcode](https://img.shields.io/badge/-Xcode-d9d9d9?style=flat&logo=xcode)
+
+<br>
+<br>
+<br>
+
+<h2>:man_technologist: About me ✨</h2>
+
+- 🛠️ **Experience:** Over 5 years in software development
+- 👨‍💼 **Working** as a **Senior mobile application developer**
+- 🏆 **Experienced** in ***iOS*** and ***android*** application development
+- 👨‍🏫 Good at team playing
+- 🌿 Love to learn new things
+- 🍀 Meanwhile You can checkout my blogs on [Medium](https://medium.com/@mdyamin)
+- ⭐️ You can star my [repos](https://github.com/yamin335?tab=repositories), if you find something helpful 😊
+- 🥰 Feel free to visit my [Portfolio](https://yamin335.github.io/)
+
+
 
 <div align="center">
     <h2 align="center"><br><br>Thank you 🥰 for your visit today!</h2>
